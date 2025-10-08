@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anishduwal" alt="anishduwal" /></a> </p>
 
-- 🔭 I’m currently working on [MyPay Agent](https://agent.mypay.com.np/)
+- 🔭 I’m currently working on [Inficare Pvt. Ltd.](https://www.inficare.com.my/)
 
-- 🌱 I’m currently learning **AngularJs, Angular, React, JS,**
+- 🌱 I’m currently learning **AngularJs, Angular, React, JS, DevOps, Azure, CI/CD, **
 
-- 💬 Ask me about **Asp.net MVC/ Core, Python, DJango, PHP, CI, JS, JQuery, Ajax, Photo editing, video editing, motion graphics, 2D and many more**
+- 💬 Ask me about **Asp.net MVC/ Core, Python, DJango, PHP, CI, JS, JQuery, Ajax, Photo editing, video editing, motion graphics and many more**
 
 - 📫 How to reach me **anish.dwl1.ad@gmail.com**
 
